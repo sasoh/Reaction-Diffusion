@@ -1,5 +1,6 @@
-# Reaction-diffusion simulation in Unity
+# Reaction-diffusion
 
-Experimental project that renders a basic reaction-diffusion simulation, following the https://karlsims.com/rd.html tutorial.
+A simulation of a [reaction-diffusion system](https://en.wikipedia.org/wiki/Reaction%E2%80%93diffusion_system) in Unity following the [tutorial from Karl Sims ](https://karlsims.com/rd.html).
 
+#### Animated preview
 ![alt text](https://raw.githubusercontent.com/sasoh/Reaction-Diffusion/refs/heads/main/reaction-animation.gif)
