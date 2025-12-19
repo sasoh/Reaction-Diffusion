@@ -6,9 +6,9 @@ public class ReactionSimulation : MonoBehaviour
 {
     [SerializeField] private float diffusionA = 1.0f;
     [SerializeField] private float diffusionB = 0.5f;
-    [SerializeField] public float feedRate = 0.055f;
-    [SerializeField] public float killRate = 0.062f;
-    [SerializeField] public float simulationSpeed = 1.0f;
+    [SerializeField] private float feedRate = 0.055f;
+    [SerializeField] private float killRate = 0.062f;
+    [SerializeField] private float simulationSpeed = 1.0f;
     [SerializeField] private float startingCircleRadius = 3.0f;
     [SerializeField] private Vector2 startingCircleCenter = new(12.0f, 20.0f);
     private int _width;
